@@ -1,0 +1,114 @@
+body {
+	background:#C6D5E8;
+text-align: center;}
+
+
+
+h1 {
+ color: #CF419A; 
+font-family: Arial ; 
+font-family: 'Dancing Script', cursive;
+}
+
+h3, 
+.text-center
+{
+	text-decoration: center
+}
+
+
+h3, ul{
+text-align: center;
+}
+
+.avatar {
+	border-radius: 50%;
+	width: 250px;
+	height: 250px;
+	object-fit: cover;
+	border: 6px solid black;
+	box-shadow: 10px 10px 10px pink; 
+}
+.frame{
+	border: 4px dashed #CF419A;
+	margin: 50px auto;
+	padding: 50px;
+	width: 400px;
+}
+
+.cadre{
+	border: 4px dashed #CF419A;
+	margin: 50px ;
+	padding: 50px;
+	width: 900px;
+	text-align: center;
+
+}
+
+.photos{
+	border: 4px dashed #CF419A;
+	margin: 50px;
+	padding: 50px; 
+	width: 400px;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: #FDA7DF;
+}
+
+.links {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.link {
+  margin: 10px 30px;
+  color: #9F3442;
+}
+
+.cliquez {
+    font-family: 'Lato', sans-serif;
+    font-weight: 100;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: pink ;
+    border: solid 1px;
+    border-radius: 4px;
+    padding: 10px 30px;
+    background-color: #CF419A
+    }
+ 
+ .line-transparent {
+  background: black;
+  width: 100%;
+}
+
+.line-light {
+  height: 50px;
+  width: 20%;
+  background: #EE9CA7;
+}
+
+.line-medium {
+  height: 50px;
+  width: 30%;
+  background: #C86472;
+}
+
+.line-hard {
+  height: 50px;
+  width: 50%;
+  background: #9F3442;
+}
+
+.line-transparent {
+  background: black;
+  width: 50%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;}
+
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/fPO76Jlnz6c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
