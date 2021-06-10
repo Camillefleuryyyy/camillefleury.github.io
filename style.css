@@ -52,7 +52,7 @@ text-align: center;
 	width: 400px;
 }
 
-.navbar {
+.my-navbar {
   display: flex;
   justify-content: space-between;
   align-items: center;
